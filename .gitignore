@@ -14,3 +14,4 @@ local.properties
 .classpath
 .settings/
 .loadpath
+.buildpath
